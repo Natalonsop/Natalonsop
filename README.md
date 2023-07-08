@@ -7,7 +7,7 @@
     <b>Welcome to my git!</b><br><br>
     <i>
         I'm Natalia Alonso.<br>
-        🌱 I am systems engineer, and i'm constantly learning, creative and courius about technology🌱<br>
+        🌸 I am systems engineer, and i'm constantly learning, creative and courius about technology🌸<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nataliaportilla/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -17,7 +17,7 @@
     </a>
 </p>
 
-<h2 align="center">☕ Statistics</h2>
+<h2 align="center">✨ Statistics ✨</h2>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=natalonsop&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
