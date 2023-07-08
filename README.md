@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Hello world! <img src="https://raw.githubusercontent.com/angeldavidhf/angeldavidhf/main/sprites/snorlax.gif" width="48px" alt="👋"><br>
+  ¡Hello world! <img src="https://raw.githubusercontent.com/Natalonsop/Natalonsop/main/Sprites/anya.png" width="90px" alt="👋"><br>
   <img src="https://komarev.com/ghpvc/?username=natalonsop&color=FCA3C9"/>
 </h1>
 
@@ -57,4 +57,5 @@
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Natalonsop/Natalonsop/main/Sprites/gear.gif" width="60"> <em><b>Somos las decisiones que tomamos </em> <img src="https://raw.githubusercontent.com/Natalonsop/Natalonsop/main/Sprites/gear.gif" width="60"> </p>
