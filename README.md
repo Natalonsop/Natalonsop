@@ -6,7 +6,7 @@
 <p align="center">
     <b>Welcome to my git!</b><br><br>
     <i>
-        I'm Natalia Alonso.<br>
+        Hi! i'm Natalia Alonso.<br>
         🌸 I am systems engineer, and i'm constantly learning, creative and courius about technology🌸<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nataliaportilla/">
