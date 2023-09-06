@@ -7,7 +7,7 @@
     <b>Welcome to my git!</b><br><br>
     <i>
         Hi! i'm Natalia Alonso.<br>
-        🌸 I am systems engineer, and i'm constantly learning, creative and courius about technology🌸<br>
+        🌸 I am a systems engineer. Very creative and curious about technology, constantly learning and developing new skills🌸<br>
     </i><br>
     <a href="https://www.linkedin.com/in/nataliaportilla/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
